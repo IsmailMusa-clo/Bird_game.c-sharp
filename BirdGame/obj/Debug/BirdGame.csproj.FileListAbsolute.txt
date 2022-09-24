@@ -1,0 +1,10 @@
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\bin\Debug\BirdGame.exe.config
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\bin\Debug\BirdGame.exe
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\bin\Debug\BirdGame.pdb
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\obj\Debug\BirdGame.csprojAssemblyReference.cache
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\obj\Debug\BirdGame.Form1.resources
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\obj\Debug\BirdGame.Properties.Resources.resources
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\obj\Debug\BirdGame.csproj.GenerateResource.cache
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\obj\Debug\BirdGame.csproj.CoreCompileInputs.cache
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\obj\Debug\BirdGame.exe
+C:\Users\Subeh\source\repos\BirdGame\BirdGame\obj\Debug\BirdGame.pdb
